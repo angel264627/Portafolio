@@ -11,7 +11,7 @@ Aquí algunos de mis proyectos más relevantes:
 ¿Necesitas llevar un control preciso de tus deudas, préstamos y pagos?
 📲 Control Deudas es la herramienta ideal para gestionar tus finanzas personales o de tu negocio de manera sencilla y eficiente.
 
-🔗 **Descargar app desde Play Store:** [POS Flutter](https://play.google.com/store/apps/details?id=com.escaleraramos.cuentasclaras1)  
+🔗 **Descargar app desde Play Store:** [CuentasClaras Flutter](https://play.google.com/store/apps/details?id=com.escaleraramos.cuentasclaras1)  
 
 
 
