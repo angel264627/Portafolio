@@ -38,6 +38,7 @@ Aquí algunos de mis proyectos más relevantes:
 
 🔗 **Demo en vivo:** [Lote de carros web](https://harmonious-puppy-a888da.netlify.app/)  
 
+---
 
 ### 4️⃣ [API Chat para Cliente. Ver video del proyecto: https://www.youtube.com/watch?v=b-V1biuBwwc 
 
